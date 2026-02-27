@@ -1,0 +1,30 @@
+# Node (Angular)
+node_modules/
+dist/
+.vscode/
+npm-debug.log
+
+# Angular / Vite / builds
+.vite/
+out/
+*.local
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+
+# .NET
+bin/
+obj/
+*.dbmdl
+*.pdb
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Environment
+.env
