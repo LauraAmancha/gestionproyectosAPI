@@ -159,3 +159,4 @@ C:\UNIANDES\TAREAS\APLICACIONES WEB\GestionProyectosAPI\obj\Debug\net10.0\refint
 C:\UNIANDES\TAREAS\APLICACIONES WEB\GestionProyectosAPI\obj\Debug\net10.0\GestionProyectosAPI.pdb
 C:\UNIANDES\TAREAS\APLICACIONES WEB\GestionProyectosAPI\obj\Debug\net10.0\GestionProyectosAPI.genruntimeconfig.cache
 C:\UNIANDES\TAREAS\APLICACIONES WEB\GestionProyectosAPI\obj\Debug\net10.0\ref\GestionProyectosAPI.dll
+C:\UNIANDES\TAREAS\APLICACIONES WEB\GestionProyectosAPI\obj\Debug\net10.0\GestionProyectosAPI.sourcelink.json
